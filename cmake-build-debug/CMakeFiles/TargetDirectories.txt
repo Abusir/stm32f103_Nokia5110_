@@ -1,0 +1,3 @@
+C:/cubepro/clion_f1_project/cmake-build-debug/CMakeFiles/clion_f1_project.elf.dir
+C:/cubepro/clion_f1_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/cubepro/clion_f1_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
